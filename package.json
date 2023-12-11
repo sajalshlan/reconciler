@@ -1,0 +1,17 @@
+{
+  "name": "reconciler",
+  "version": "1.0.0",
+  "description": "a very basic version of our reconciler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "jsdom": "^22.1.0"
+  }
+}
+
